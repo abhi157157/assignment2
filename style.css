@@ -1,0 +1,54 @@
+h1{
+    color: purple;
+}
+
+h2{
+   
+    color: greenyellow;
+    font-style: italic;
+
+}
+
+span{
+    background-color: rgb(50, 138, 197);
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.head{
+    color: red;
+}
+
+.main{
+    letter-spacing: 6px;
+    color: brown;
+}
+li span{
+    background-color: rgb(236, 15, 188);
+}
+
+h3{
+    font-weight: lighter;
+    color: rgba(42, 165, 104, 0.582);
+}
+
+.box2{
+    font-size: xx-small;
+    color: rgb(214, 70, 233);
+}
+
+.box1{
+    font-style: italic;
+    color: rgb(43, 30, 30);
+}
+
+a {
+   color: rgb(222, 235, 113);
+   background-color: yellow;
+   text-decoration: none;
+}
+
+
